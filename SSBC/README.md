@@ -34,6 +34,8 @@ Seven Sages' Fiscal year begins on October 1st and runs until September 30th. A 
 Building Relationships Between Tables
 A one-to-many relationship exists between the one fact table (Sales Transaction) and four dimension table pointing toward it as shown in the data model.
 
+![picture1](./pictures/SSBC%20Data%20Model.png
+
 # Writing DAX Measures
 
 To satisfy the CFO's requirements, we have calculated Sales, Cost of Sales, and Gross Profit Margin in two different currencies. The following measures have been created, are present on the data model, and are clearly labeled:
