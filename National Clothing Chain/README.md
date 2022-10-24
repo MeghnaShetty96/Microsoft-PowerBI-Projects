@@ -26,6 +26,22 @@ The heatmap is used to visualize income household income distribution across the
 
 # Report Tab2
 
-The scatterplot shows a downward slope negative correlation between customer ratings and product return rate.
+The scatterplot shows a downward sloping negative correlation between customer ratings and product return rate.
 
 The horizontal bar chart indicates the maximum predicted income by customers.
+
+![picture2](./Pictures/Report%20Tab2.png)
+
+# Report Tab3 
+
+Linear regression has been used correctly to predict customer income based on sales and income of the state.The histogram shows the distribution and shape of predicted income by category and is created using a column chart and DAX formula to define the ranges/bins of the columns.
+
+The product recommendations are defined using a DAX formula and a stacked column chart is used to display the same. The scatterplot between income and sales is upward sloping and helps in supporting cross filtering.
+
+![picture3](./Pictures/Report%20Tab3.png)
+
+# Report Tab4
+
+The decomposition tree breaks down the population in every US state with respect to Industry and Predicted Income. 
+
+![picture4](./Pictures/Report%20Tab4.png)
