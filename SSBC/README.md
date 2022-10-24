@@ -66,4 +66,4 @@ Each value is reflected using the correct format and clearly labeled. Time perio
 
 The second tab has a simple table with two columns showing the percentage of sales and share of the gross profit made up by each beer produced at SSBC. This total amounts to 100%.
 
-
+![picture3](./Pictures/Gross%20Profit%20%26%20Unit%20Sales.png)
