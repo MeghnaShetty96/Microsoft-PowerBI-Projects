@@ -21,9 +21,9 @@ Were owners of Lapcat devices as satisfied with the product as Lapdog owners?
 
 The Chief Marketing Officer would like your report to be “on-brand” by including only colors from the Waggle color palette, the Waggle logo, and other approved company logos and icons.
 
-![picture1](./pictures/Branding%20Waggle%20Guidelines.png)
+![picture2](./pictures/Branding%20Waggle%20Guidelines.png)
 
-The product team trusts you to incorporate other visuals and insights as you see fit but is most interested in demographic comparisons between the dogs and cats using Waggle devices as well as any information about the families who own the pets. They would also like slicers to help them filter and explore on their own.
+The product team expects to incorporate other visuals and insights as you see fit but is most interested in demographic comparisons between the dogs and cats using Waggle devices as well as any information about the families who own the pets. They would also like slicers to help them filter and explore on their own.
 
 # The report must include :
 
@@ -42,3 +42,25 @@ The second page is focused on visualizations related specifically to the pets da
 The third page is focused on visualizations related specifically to the families dataset.
 
 Full report can be found on the Waggle repo
+
+# Report Tab1 
+
+To address CEO's questions:
+
+The line chart depicts the difference of average daily steps between the Lapcat and Lapdog devices over time.
+
+The bar chart shows the difference of user ratings between Lapdog and Lapcat devices which highlights the huge business difference and may have an impact on the CEO's decision.
+
+![picture3](./pictures/Report%20Tab1.png)
+
+# Report Tab2
+
+To drive insights from the pets dataset, the second tab included:
+
+A horizontal bar chart that demonstrates the Lapdog and Lapcat device usage by the gender of the pets.
+
+The pie chart shows the top 3 dog breeds using the Lapdog product.
+
+The table indicates the purchase breakdown of Lapcat and Lapdog products by online marketplaces. 
+
+![picture4](./pictures/Report%20Tab2.png)
