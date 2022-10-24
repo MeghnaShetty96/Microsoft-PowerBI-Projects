@@ -10,7 +10,9 @@ Below is a quick demonstration of the project components
 
 Data Model
 
-A snapshot of the Data Model is given below and can be found on (share PNG file)
+A snapshot of the Data Model is given below 
+
+![picture1](./pictures/Data%20Model.png)
 
 The CEO is curious about the following questions:
 
