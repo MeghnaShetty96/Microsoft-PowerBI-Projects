@@ -22,3 +22,11 @@ Were owners of Lapcat devices as satisfied with the product as Lapdog owners?
 The Chief Marketing Officer would like your report to be “on-brand” by including only colors from the Waggle color palette, the Waggle logo, and other approved company logos and icons.
 
 ![picture1](./pictures/Branding%20Waggle%20Guidelines.png)
+
+The product team trusts you to incorporate other visuals and insights as you see fit but is most interested in demographic comparisons between the dogs and cats using Waggle devices as well as any information about the families who own the pets. They would also like slicers to help them filter and explore on their own.
+
+# The report must include :
+
+At least five slicers on each page with at least one example of a drop-down slicer, at least one example of a slider slicer, at least one example of a hierarchy slicer, at least one example of a slicer with “Select All” enabled, and one example of a slicer with the search box enabled.
+At least two bookmark features that allow users to dynamically swap one visual out with a different one and another must reset all applied filters on the page.
+Buttons that help users navigate the report and respond when users hover over them by changing color or size (or both!).
