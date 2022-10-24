@@ -1,7 +1,10 @@
 # National CLothing Chain
-An online national clothing chain needs your help creating a targeted marketing campaign. Sales have been flat and they want to lure lost customers back. They want to advertise specific products to specific customers in specific locations, but they don’t know who to target. They have three products in mind:
+An online national clothing chain needs help in creating a targeted marketing campaign. Sales have been flat and they want to lure lost customers back. They want to advertise specific products to specific customers in specific locations, but they don’t know who to target. They have three products in mind:
+
 Shirt: $25
+
 Sweater: $100
+
 Leather Bag: $1,000
 
 # Analysis Questions:
@@ -23,4 +26,6 @@ The heatmap is used to visualize income household income distribution across the
 
 # Report Tab2
 
-The scatter
+The scatterplot shows a downward slope negative correlation between customer ratings and product return rate.
+
+The horizontal bar chart indicates the maximum predicted income by customers.
