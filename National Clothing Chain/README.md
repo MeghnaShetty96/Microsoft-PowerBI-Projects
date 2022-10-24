@@ -10,9 +10,13 @@ Leather Bag: $1,000
 # Analysis Questions:
 
 What is the correlation (R2 value) between sales and income?
+
 What is the correlation (R2 value) between customer ratings and product return rate?
+
 What are the linear regression formulas to predict customer income from customer sales?
+
 Which customer do you predict has the highest income?
+
 Which product will be advertised the most?
 
 Below mentioned tabs demonstrate market analysis to support the determination of the best product to the customers along with answering the above questions.
