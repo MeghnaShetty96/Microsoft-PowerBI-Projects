@@ -31,7 +31,7 @@ fiscal periods, fiscal years, and fiscal quarter
 
 Seven Sages' Fiscal year begins on October 1st and runs until September 30th. A transaction on Sept 20th, 2020 would fall in FY 2020, but a transaction on October 20th would land in FY 2021.
 
-Building Relationships Between Tables
+# Building Relationships Between Tables
 A one-to-many relationship exists between the one fact table (Sales Transaction) and four dimension table pointing toward it as shown in the data model.
 
 ![picture1](./pictures/SSBC%20Data%20Model.png
