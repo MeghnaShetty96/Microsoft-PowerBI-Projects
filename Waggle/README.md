@@ -27,6 +27,18 @@ The product team trusts you to incorporate other visuals and insights as you see
 
 # The report must include :
 
-- At least five slicers on each page with at least one example of a drop-down slicer, at least one example of a slider slicer, at least one example of a hierarchy slicer, at least one example of a slicer with “Select All” enabled, and one example of a slicer with the search box enabled.
-- At least two bookmark features that allow users to dynamically swap one visual out with a different one and another must reset all applied filters on the page.
-- Buttons that help users navigate the report and respond when users hover over them by changing color or size (or both!).
+At least five slicers on each page with at least one example of a drop-down slicer, at least one example of a slider slicer, at least one example of a hierarchy slicer, at least one example of a slicer with “Select All” enabled, and one example of a slicer with the search box enabled.
+
+At least two bookmark features that allow users to dynamically swap one visual out with a different one and another must reset all applied filters on the page.
+
+Buttons that help users navigate the report and respond when users hover over them by changing color or size (or both!).
+
+# The report consists of 3 tabs :
+
+The first page is focused on highlighting the differencein average daily steps and the average user rating between the Lapcat and Lapdog devices over time.
+
+The second page is focused on visualizations related specifically to the pets dataset.
+
+The third page is focused on visualizations related specifically to the families dataset.
+
+Full report can be found on the Waggle repo
