@@ -50,6 +50,7 @@ Share of gross profit by Product type (%)
 # Reporting
 
 The reporting layer includes two tabs.
+
 The first tab has the following:
 Two card visualizations
 One matrix
@@ -60,6 +61,9 @@ Total Sales in USD: $167.57K
 Total Sales in CAD: $224.21k
 % Gross Profit Margin in USD (Year total): 14.7%
 Each value is reflected using the correct format and clearly labeled. Time periods use fiscal rather than calendar quarters.
+
+![picture1](./Pictures/Sales%20%26%20GPM.png)
+
 The second tab has a simple table with two columns showing the percentage of sales and share of the gross profit made up by each beer produced at SSBC. This total amounts to 100%.
 
 
