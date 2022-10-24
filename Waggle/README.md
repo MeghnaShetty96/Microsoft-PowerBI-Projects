@@ -21,3 +21,4 @@ Were owners of Lapcat devices as satisfied with the product as Lapdog owners?
 
 The Chief Marketing Officer would like your report to be “on-brand” by including only colors from the Waggle color palette, the Waggle logo, and other approved company logos and icons.
 
+![picture1](./pictures/Branding%20Waggle%20Guidelines.png)
