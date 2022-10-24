@@ -39,7 +39,7 @@ The horizontal bar chart indicates the maximum predicted income by customers.
 
 # Report Tab3 
 
-Linear regression has been used correctly to predict customer income based on sales and income of the state.The histogram shows the distribution and shape of predicted income by category and is created using a column chart and DAX formula to define the ranges/bins of the columns.
+Linear regression has been used to predict customer income based on sales and income of the state.The histogram shows the distribution and shape of predicted income by category and is created using a column chart and DAX formula to define the ranges/bins of the columns.
 
 The product recommendations are defined using a DAX formula and a stacked column chart is used to display the same. The scatterplot between income and sales is upward sloping and helps in supporting cross filtering.
 
