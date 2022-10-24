@@ -35,7 +35,7 @@ Buttons that help users navigate the report and respond when users hover over th
 
 # The report consists of 3 tabs :
 
-The first page is focused on highlighting the differencein average daily steps and the average user rating between the Lapcat and Lapdog devices over time.
+The first page is focused on highlighting the difference in average daily steps and the average user rating between the Lapcat and Lapdog devices over time.
 
 The second page is focused on visualizations related specifically to the pets dataset.
 
@@ -64,3 +64,15 @@ The pie chart shows the top 3 dog breeds using the Lapdog product.
 The table indicates the purchase breakdown of Lapcat and Lapdog products by online marketplaces. 
 
 ![picture4](./pictures/Report%20Tab2.png)
+
+# Report Tab3
+
+To drive insights from the families dataset, the third tab included:
+
+The map shows the Average of Household Income by State.
+
+A card shows the average of total pets
+
+The scatterplot indicates the relationship between annual pet expenses and household income to target product costing
+
+![picture5](./pictures/Report%20Tab3.png)
